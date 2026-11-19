@@ -1,0 +1,18 @@
+{
+  "ssd_root": "/Volumes/Extreme SSD",
+  "footage": {
+    "geng_geng_solo": "TV/2016 耿耿單人三無分段案",
+    "best_of_us": "TV/2016 最好的我們",
+    "notes": "三無＝無字幕／無台標／無水印；優先用單人分段案"
+  },
+  "output_dir": "~/Movies/mindy-drama-psych",
+  "episodes_doc": "",
+  "psych_plan_doc": "",
+  "defaults": {
+    "aspect": "9:16",
+    "duration_sec_min": 60,
+    "duration_sec_max": 90,
+    "loudness_lufs": -14,
+    "platform": "reels"
+  }
+}
